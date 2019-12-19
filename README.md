@@ -15,7 +15,8 @@ Start
 ----
 * Execute ```yarn``` para instalar dependencias do projeto.
 *  Adicione arquivo ```.env``` dentro da pasta e sete as seguintes variveis: 
-```MAIL_HOST="smtp.mailtrap.io"
+```
+MAIL_HOST="smtp.mailtrap.io"
 MAIL_PORT=2525
 MAIL_USER=""
 MAIL_PASS=""
